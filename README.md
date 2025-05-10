@@ -16,7 +16,6 @@ Achieved high accuracy and precision on test data, ensuring reliable predictions
 Developed a simple Flask-based web interface to allow users to enter input values and receive prediction results.
 
 🔹 Impact:
-
 Provides financial institutions with a risk assessment tool to minimize loan default.
 
 Enhances operational efficiency and transparency in loan application evaluation.
